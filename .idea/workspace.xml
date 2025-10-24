@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e3a33fa-0e76-4d91-a28d-d8796d2b237d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/create_story_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/edit_post_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hashtag_feed_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/notification.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/notifications_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/shopping_list_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/story.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/story_rail.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/story_viewer_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/dartpad/web_plugin_registrant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/dartpad/web_plugin_registrant.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/extension_discovery/devtools.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/70df267dbffe18dccbde53453b5b52f8/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/70df267dbffe18dccbde53453b5b52f8/.filecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/70df267dbffe18dccbde53453b5b52f8/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/70df267dbffe18dccbde53453b5b52f8/app.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/70df267dbffe18dccbde53453b5b52f8/debug_android_application.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/70df267dbffe18dccbde53453b5b52f8/debug_android_application.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/70df267dbffe18dccbde53453b5b52f8/flutter_assets.d" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/70df267dbffe18dccbde53453b5b52f8/flutter_assets.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/70df267dbffe18dccbde53453b5b52f8/kernel_snapshot_program.d" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/70df267dbffe18dccbde53453b5b52f8/kernel_snapshot_program.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/70df267dbffe18dccbde53453b5b52f8/kernel_snapshot_program.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/70df267dbffe18dccbde53453b5b52f8/kernel_snapshot_program.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/70df267dbffe18dccbde53453b5b52f8/outputs.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/70df267dbffe18dccbde53453b5b52f8/outputs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/a7eb83ce08234a2a492eaf073e48b2ba/.filecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/a7eb83ce08234a2a492eaf073e48b2ba/app.dill" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/a7eb83ce08234a2a492eaf073e48b2ba/dart_build.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/a7eb83ce08234a2a492eaf073e48b2ba/dart_build.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/a7eb83ce08234a2a492eaf073e48b2ba/dart_build_result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/a7eb83ce08234a2a492eaf073e48b2ba/debug_bundle_windows-x64_assets.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/a7eb83ce08234a2a492eaf073e48b2ba/flutter_assets.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/a7eb83ce08234a2a492eaf073e48b2ba/gen_dart_plugin_registrant.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/a7eb83ce08234a2a492eaf073e48b2ba/gen_localizations.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/a7eb83ce08234a2a492eaf073e48b2ba/install_code_assets.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/a7eb83ce08234a2a492eaf073e48b2ba/install_code_assets.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/a7eb83ce08234a2a492eaf073e48b2ba/kernel_snapshot_program.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/a7eb83ce08234a2a492eaf073e48b2ba/kernel_snapshot_program.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/a7eb83ce08234a2a492eaf073e48b2ba/native_assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/a7eb83ce08234a2a492eaf073e48b2ba/outputs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/a7eb83ce08234a2a492eaf073e48b2ba/unpack_windows.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/a7eb83ce08234a2a492eaf073e48b2ba/windows_engine_sources.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/dart_plugin_registrant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/dart_plugin_registrant.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/e54f2e181bb5327228f847953290d189/.filecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/e54f2e181bb5327228f847953290d189/app.dill" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/e54f2e181bb5327228f847953290d189/dart_build.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/e54f2e181bb5327228f847953290d189/dart_build.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/e54f2e181bb5327228f847953290d189/dart_build_result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/e54f2e181bb5327228f847953290d189/debug_android_application.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/e54f2e181bb5327228f847953290d189/flutter_assets.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/e54f2e181bb5327228f847953290d189/gen_dart_plugin_registrant.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/e54f2e181bb5327228f847953290d189/gen_localizations.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/e54f2e181bb5327228f847953290d189/install_code_assets.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/e54f2e181bb5327228f847953290d189/install_code_assets.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/e54f2e181bb5327228f847953290d189/kernel_snapshot_program.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/e54f2e181bb5327228f847953290d189/kernel_snapshot_program.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/e54f2e181bb5327228f847953290d189/native_assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/e54f2e181bb5327228f847953290d189/outputs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_graph.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_graph.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/db_posts.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/db_posts.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/db_users.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/db_users.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/concat-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/concat-stream/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/multer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/multer/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/multer/lib/make-middleware.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/multer/lib/make-middleware.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/multer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/multer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/readable-stream/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/readable-stream/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/readable-stream/errors-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/readable-stream/errors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/readable-stream/experimentalWarning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/readable-stream/lib/_stream_duplex.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/readable-stream/lib/_stream_duplex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/readable-stream/lib/_stream_passthrough.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/readable-stream/lib/_stream_passthrough.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/readable-stream/lib/_stream_readable.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/readable-stream/lib/_stream_readable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/readable-stream/lib/_stream_transform.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/readable-stream/lib/_stream_transform.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/readable-stream/lib/_stream_writable.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/readable-stream/lib/_stream_writable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/readable-stream/lib/internal/streams/async_iterator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/readable-stream/lib/internal/streams/buffer_list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/readable-stream/lib/internal/streams/destroy.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/readable-stream/lib/internal/streams/destroy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/readable-stream/lib/internal/streams/end-of-stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/readable-stream/lib/internal/streams/from-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/readable-stream/lib/internal/streams/from.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/readable-stream/lib/internal/streams/pipeline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/readable-stream/lib/internal/streams/state.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/readable-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/readable-stream/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/readable-stream/readable-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/readable-stream/readable-browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/readable-stream/readable.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/readable-stream/readable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/string_decoder/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/string_decoder/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookscroll.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cookscroll.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/api_config.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/api_config.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/chat_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/chat_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/conversation.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/conversation.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/explore_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/explore_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/feed_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/feed_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/glassmorphic_nav_bar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/glassmorphic_nav_bar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/home_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/login_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/login_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/message.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/message.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/messages_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/messages_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/new_chat_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/new_chat_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/other_user_profile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/other_user_profile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/post_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/post_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/profile_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/profile_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/register_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/register_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/search_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/search_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/shopping_list_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/shopping_list_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/user.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/user.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/video_player_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/video_player_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/video_post.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/video_post.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/video_thumbnail.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/video_thumbnail.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/windows/flutter/generated_plugins.cmake" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="34D0pEvVULv6qCq91omgRSHl0cV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Flutter.main.dart.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vinay/StudioProjects/cookscroll/assests/images&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.intentionPowerPack&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vinay\StudioProjects\cookscroll\assests\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vinay\StudioProjects\cookscroll" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e3a33fa-0e76-4d91-a28d-d8796d2b237d" name="Changes" comment="" />
+      <created>1760733024455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760733024455</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
